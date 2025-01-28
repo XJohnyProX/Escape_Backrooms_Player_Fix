@@ -1,5 +1,5 @@
 {
-  "launch_access": true,
+  "launch_access": false,
   "allowed_ip_list": [
     "88.232.183.220",
     "81.213.243.251",
