@@ -2,5 +2,8 @@
   "launch_access": true,
   "allowed_ip_list": [
     "176.24.213.193"
+  ],
+  "allowed_hwid_list": [
+    "DESKTOP-G0KE1GP"
   ]
 }
