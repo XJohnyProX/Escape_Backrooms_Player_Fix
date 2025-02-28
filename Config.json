@@ -1,10 +1,11 @@
 {
   "launch_access": false,
   "allowed_ip_list": [
-    "24.133.98.4"
+    "None"
   ],
   "allowed_hwid_list": [
+    "ARBIE-274415-ERMEMIHARBI-MEG",
     "ILA-942131-PG1EK0G-POTKSED-MEG",
-    "KGKRB-32391--OVONELKARUB-ME"
+    "KGKRB-32391--OVONELKARUB-MEg"
   ]
 }
