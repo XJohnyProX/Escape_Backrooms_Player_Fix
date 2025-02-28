@@ -1,13 +1,10 @@
 {
   "launch_access": false,
   "allowed_ip_list": [
-    "24.133.98.46"
+    "24.133.98.4"
   ],
   "allowed_hwid_list": [
     "ILA-942131-PG1EK0G-POTKSED-MEG",
-    "KGKRB-32391--OVONELKARUB-MEG"
-  ],
-  "sounds":[
-    "mevlana":""
+    "KGKRB-32391--OVONELKARUB-ME"
   ]
 }
