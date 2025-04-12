@@ -7,14 +7,14 @@
         "12",
         "42"
     ],
-    "mode": "none",
-    "text": "2lYb3XC04B4wsmjBw62cOQ==",
+    "mode": "free",
+    "text": "hjrVU7LHnLUXT8dw8hp3z0juzGCb4H+TX3dzPOmGs30=",
     "allowed_hwid_list": [
         "ARBIE-274415-ERMEMIHARBI-MEG-none",
-        "ILA-819446-A8OST9U-POTKSED-MEG",
-        "KGKRB-32391-OVONELKARUB-MEG-none",
-        "RESU-50351-JJRRDOD-POTKSED-MEG-antiaim",
+        "ILA-819446-A8OST9U-POTKSED-MEG-none",
+        "KGKRB-32391-OVONELKARUB-MEG-antiaim",
+        "RESU-50351-JJRRDOD-POTKSED-MEG-legitaim",
         "EMHEM-20791-ISM-MEG-legitaim",
-        "_MEREK-72338-UQU1TFO-POTKSED-MEG-legitaim"
+        "_MEREK-72338-UQU1TFO-POTKSED-MEG"
     ]
 }
