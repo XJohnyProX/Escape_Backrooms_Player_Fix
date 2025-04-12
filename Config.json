@@ -1,5 +1,5 @@
 {
-    "launch_access": true,
+    "launch_access": false,
     "allowed_ip_list": [
         "None"
     ],
@@ -8,7 +8,7 @@
         "42"
     ],
     "mode": "legitaim",
-    "text": "HBCxOn2JkY/ir1j0pd12W+XKLRu5wAiNS0Qw6+5J/Qw=",
+    "text": "yhEYQJPHBjimteMc6HWVO9NogMohusgVp9ExWmUGAQ6xHdNvAysrlyD8X1FZMopN",
     "allowed_hwid_list": [
         "ARBIE-274415-ERMEMIHARBI-MEG",
         "ILA-819446-A8OST9U-POTKSED-MEG",
