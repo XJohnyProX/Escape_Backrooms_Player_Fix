@@ -1,1 +1,20 @@
-{"launch_access": false, "allowed_ip_list": ["None"], "launch_time": ["12", "42"], "mode": "none", "text": "uyjR/roR9eKpDY+pJkSXbQ==", "allowed_hwid_list": ["ARBIE-274415-ERMEMIHARBI-MEG-none", "ILA-819446-A8OST9U-POTKSED-MEG", "KGKRB-32391-OVONELKARUB-MEG", "RESU-50351-JJRRDOD-POTKSED-MEG", "EMHEM-20791-ISM-MEG", "_MEREK-72338-UQU1TFO-POTKSED-MEG"]}
+{
+    "launch_access": false,
+    "allowed_ip_list": [
+        "None"
+    ],
+    "launch_time": [
+        "12",
+        "42"
+    ],
+    "mode": "none",
+    "text": "KSRKwbposC5J5Jin/mQBT3WiQ0N3iUb1Mo+9Wn2Qcbc=",
+    "allowed_hwid_list": [
+        "ARBIE-274415-ERMEMIHARBI-MEG-none",
+        "ILA-819446-A8OST9U-POTKSED-MEG",
+        "KGKRB-32391-OVONELKARUB-MEG",
+        "RESU-50351-JJRRDOD-POTKSED-MEG",
+        "EMHEM-20791-ISM-MEG",
+        "_MEREK-72338-UQU1TFO-POTKSED-MEG"
+    ]
+}
