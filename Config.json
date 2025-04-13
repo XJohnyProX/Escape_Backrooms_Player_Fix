@@ -1,7 +1,7 @@
 {
     "launch_access": false,
     "allowed_ip_list": [
-        "21921.123.231"
+        "none"
     ],
     "launch_time": [
         "12",
